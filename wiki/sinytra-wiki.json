@@ -1,0 +1,10 @@
+{
+  "schema": "1",
+  "id": "the-harrower",
+  "platforms": {
+    "curseforge": "the-harrower"
+  },
+  "owners": [
+    "adamsilfven"
+  ]
+}
