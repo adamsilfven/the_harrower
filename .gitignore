@@ -1,0 +1,19 @@
+# Gradle and Java build outputs
+.gradle/
+build/
+out/
+*.class
+
+# Disposable Minecraft run directories
+run/
+run-client/
+run-server/
+run-verify/
+
+# Local IDE files
+.idea/
+.vscode/
+*.iml
+
+# Keep the checked-in Gradle wrapper binary
+!gradle/wrapper/gradle-wrapper.jar
