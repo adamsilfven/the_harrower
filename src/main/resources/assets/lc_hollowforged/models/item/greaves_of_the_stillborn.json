@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "gui_light": "front",
+  "textures": {
+    "layer0": "lc_hollowforged:item/greaves_of_the_stillborn_icon"
+  }
+}
