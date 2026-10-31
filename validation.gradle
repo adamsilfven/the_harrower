@@ -1,0 +1,5 @@
+// Test-only integration probe is opt-in, never shipped in the combined JAR.
+if(project.hasProperty('binaryValidation')) {
+ sourceSets { validation { compileClasspath += sourceSets.main.compileClasspath+sourceSets.main.output;runtimeClasspath += sourceSets.main.runtimeClasspath-sourceSets.main.output } }
+ neoForge.mods { harrower_package_checks { sourceSet sourceSets.validation } }
+}
