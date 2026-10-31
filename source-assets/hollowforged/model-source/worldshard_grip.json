@@ -1,0 +1,53 @@
+{
+  "grip_model_position": [
+    8,
+    -10.8,
+    8
+  ],
+  "shaft_bottom_y": -14.44,
+  "pommel_bottom_y": -15.944,
+  "haft_top_y": 18.46,
+  "rest_arm_x_radians": -0.18,
+  "rest_arm_z_radians": 0.06,
+  "angle_from_body_vertical_degrees": 42.5,
+  "bearing_from_lateral_toward_forward_degrees": 90,
+  "third_person": {
+    "rotation": [
+      37.23815645417593,
+      2.3217501523983235,
+      -2.5359613546041393
+    ],
+    "translation": [
+      0.5153129605870007,
+      9.283212476490414,
+      7.029847414345761
+    ],
+    "scale": [
+      0.62,
+      0.62,
+      0.62
+    ]
+  },
+  "first_person": {
+    "rotation": [
+      -35.83584953060196,
+      12.774486182690287,
+      -17.023461054328887
+    ],
+    "translation": [
+      1.7176688232964767,
+      4.435460458249706,
+      -3.683552678702804
+    ],
+    "scale": [
+      0.32,
+      0.32,
+      0.32
+    ]
+  },
+  "native_hand_offset_model_units": [
+    1,
+    2,
+    -10
+  ]
+}

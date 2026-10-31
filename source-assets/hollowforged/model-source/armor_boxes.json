@@ -1,0 +1,3899 @@
+{
+  "design": "Mountain King / approved concept C",
+  "pivots": {
+    "head": [
+      0,
+      0,
+      0
+    ],
+    "hat": [
+      0,
+      0,
+      0
+    ],
+    "body": [
+      0,
+      0,
+      0
+    ],
+    "right_arm": [
+      -5,
+      2,
+      0
+    ],
+    "left_arm": [
+      5,
+      2,
+      0
+    ],
+    "right_leg": [
+      -1.9,
+      12,
+      0
+    ],
+    "left_leg": [
+      1.9,
+      12,
+      0
+    ]
+  },
+  "texture_size": 2048,
+  "pieces": {
+    "crown_of_the_hollow": [
+      {
+        "part": "head",
+        "name": "front_band",
+        "center": [
+          0,
+          -7.9,
+          -4.45
+        ],
+        "size": [
+          9.5,
+          1.85,
+          1.0
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          0,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_band",
+        "center": [
+          0,
+          -7.9,
+          4.45
+        ],
+        "size": [
+          9.5,
+          1.85,
+          1.0
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          64,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_band-1",
+        "center": [
+          -4.4,
+          -7.9,
+          0
+        ],
+        "size": [
+          1.0,
+          1.85,
+          8.2
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          128,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_band1",
+        "center": [
+          4.4,
+          -7.9,
+          0
+        ],
+        "size": [
+          1.0,
+          1.85,
+          8.2
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          192,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_brass_band",
+        "center": [
+          0,
+          -7.22,
+          -5.0
+        ],
+        "size": [
+          9.5,
+          0.48,
+          0.16
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          256,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_brass_band",
+        "center": [
+          0,
+          -7.22,
+          5.0
+        ],
+        "size": [
+          9.5,
+          0.48,
+          0.16
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          320,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_brass_band-1",
+        "center": [
+          -4.97,
+          -7.22,
+          0
+        ],
+        "size": [
+          0.16,
+          0.48,
+          9.4
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          384,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_brass_band1",
+        "center": [
+          4.97,
+          -7.22,
+          0
+        ],
+        "size": [
+          0.16,
+          0.48,
+          9.4
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          448,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_point0",
+        "center": [
+          -3.35,
+          -9.924999999999999,
+          -4.45
+        ],
+        "size": [
+          2.0,
+          3.15,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          512,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_point1",
+        "center": [
+          0,
+          -10.45,
+          -4.45
+        ],
+        "size": [
+          2.8,
+          4.2,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          576,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_point2",
+        "center": [
+          3.35,
+          -9.924999999999999,
+          -4.45
+        ],
+        "size": [
+          2.0,
+          3.15,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          640,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_point-1",
+        "center": [
+          -2.65,
+          -9.9,
+          4.45
+        ],
+        "size": [
+          2.3,
+          3.1,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          704,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_point-1",
+        "center": [
+          -4.45,
+          -9.8,
+          0
+        ],
+        "size": [
+          2.6,
+          2.9,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          -90,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          768,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_point1",
+        "center": [
+          2.65,
+          -9.9,
+          4.45
+        ],
+        "size": [
+          2.3,
+          3.1,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          832,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "side_point1",
+        "center": [
+          4.45,
+          -9.8,
+          0
+        ],
+        "size": [
+          2.6,
+          2.9,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "peak",
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          896,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_seal_rim",
+        "center": [
+          0,
+          -8.5,
+          -5.12
+        ],
+        "size": [
+          1.7,
+          2.4,
+          0.3
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          960,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "front_seal_olive",
+        "center": [
+          0,
+          -8.5,
+          -5.32
+        ],
+        "size": [
+          1.18,
+          1.8,
+          0.25
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1024,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_seal-1",
+        "center": [
+          -2.65,
+          -8.15,
+          5.05
+        ],
+        "size": [
+          0.65,
+          1.1,
+          0.16
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1088,
+          0
+        ]
+      },
+      {
+        "part": "head",
+        "name": "rear_seal1",
+        "center": [
+          2.65,
+          -8.15,
+          5.05
+        ],
+        "size": [
+          0.65,
+          1.1,
+          0.16
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1152,
+          0
+        ]
+      }
+    ],
+    "carapace_of_the_unbroken": [
+      {
+        "part": "body",
+        "name": "fitted_undercoat",
+        "center": [
+          0,
+          5.7,
+          0
+        ],
+        "size": [
+          8.7,
+          11.8,
+          4.6
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1216,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "cuirass",
+        "center": [
+          0,
+          3.9,
+          -2.65
+        ],
+        "size": [
+          10.0,
+          8.9,
+          2.0
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          1280,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "cuirass_chevron",
+        "center": [
+          0,
+          4.7,
+          -3.7
+        ],
+        "size": [
+          7.6,
+          6.5,
+          0.4
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.1,
+        "uv": [
+          1344,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "cuirass_center",
+        "center": [
+          0,
+          4.5,
+          -3.96
+        ],
+        "size": [
+          6.6,
+          5.8,
+          0.3
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1408,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "sternum_rim",
+        "center": [
+          0,
+          2.9,
+          -4.2
+        ],
+        "size": [
+          2.35,
+          3.2,
+          0.33
+        ],
+        "material": "edge",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1472,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "sternum_olive",
+        "center": [
+          0,
+          2.9,
+          -4.3
+        ],
+        "size": [
+          1.8095,
+          2.4960000000000004,
+          0.264
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1536,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "sternum_brass_upper",
+        "center": [
+          0,
+          1.32,
+          -4.3
+        ],
+        "size": [
+          0.85,
+          0.85,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1600,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "breast_flange_-1",
+        "center": [
+          -3.55,
+          4.75,
+          -3.65
+        ],
+        "size": [
+          1.35,
+          5.3,
+          0.42
+        ],
+        "material": "plate",
+        "shape": "wedge",
+        "rotation": [
+          0,
+          0,
+          8
+        ],
+        "bevel": 0.2,
+        "uv": [
+          1664,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "breast_flange_rim_-1",
+        "center": [
+          -4.12,
+          4.7,
+          -3.93
+        ],
+        "size": [
+          0.36,
+          4.25,
+          0.16
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          8
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1728,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "breast_flange_1",
+        "center": [
+          3.55,
+          4.75,
+          -3.65
+        ],
+        "size": [
+          1.35,
+          5.3,
+          0.42
+        ],
+        "material": "plate",
+        "shape": "wedge",
+        "rotation": [
+          0,
+          0,
+          -8
+        ],
+        "bevel": 0.2,
+        "uv": [
+          1792,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "breast_flange_rim_1",
+        "center": [
+          4.12,
+          4.7,
+          -3.93
+        ],
+        "size": [
+          0.36,
+          4.25,
+          0.16
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          -8
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1856,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "lower_olive_chevron",
+        "center": [
+          0,
+          6.1,
+          -4.2
+        ],
+        "size": [
+          2.0,
+          2.4,
+          0.25
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1920,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "abdomen_8.3",
+        "center": [
+          0,
+          8.3,
+          -2.93
+        ],
+        "size": [
+          8.9,
+          1.7,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1984,
+          0
+        ]
+      },
+      {
+        "part": "body",
+        "name": "abdomen_9.9",
+        "center": [
+          0,
+          9.9,
+          -2.8
+        ],
+        "size": [
+          8.4,
+          1.7,
+          1.05
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          0,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "backplate",
+        "center": [
+          0,
+          3.55,
+          2.7
+        ],
+        "size": [
+          9.8,
+          8.1,
+          1.85
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.15,
+        "uv": [
+          64,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "back_inset_rim",
+        "center": [
+          0,
+          3.85,
+          3.83
+        ],
+        "size": [
+          3.3,
+          5.7,
+          0.36
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          128,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "back_inset_olive",
+        "center": [
+          0,
+          3.85,
+          3.93
+        ],
+        "size": [
+          2.541,
+          4.446000000000001,
+          0.288
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          192,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "lumbar0",
+        "center": [
+          0,
+          7.9,
+          2.65
+        ],
+        "size": [
+          8.5,
+          1.8,
+          1.1
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          256,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "lumbar1",
+        "center": [
+          0,
+          9.55,
+          2.65
+        ],
+        "size": [
+          8.1,
+          1.8,
+          1.1
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          320,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "front_gorget",
+        "center": [
+          0,
+          -0.2,
+          -2.55
+        ],
+        "size": [
+          8.8,
+          1.7,
+          1.45
+        ],
+        "material": "edge",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          384,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "back_gorget",
+        "center": [
+          0,
+          -0.28,
+          2.45
+        ],
+        "size": [
+          8.8,
+          1.8,
+          1.4
+        ],
+        "material": "edge",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          448,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "collar_side-1",
+        "center": [
+          -4.15,
+          -0.25,
+          0
+        ],
+        "size": [
+          1.35,
+          1.7,
+          4.2
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          512,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "flank-1",
+        "center": [
+          -4.22,
+          5.9,
+          0.1
+        ],
+        "size": [
+          1.45,
+          8.8,
+          4.6
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          576,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "collar_side1",
+        "center": [
+          4.15,
+          -0.25,
+          0
+        ],
+        "size": [
+          1.35,
+          1.7,
+          4.2
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          640,
+          64
+        ]
+      },
+      {
+        "part": "body",
+        "name": "flank1",
+        "center": [
+          4.22,
+          5.9,
+          0.1
+        ],
+        "size": [
+          1.45,
+          8.8,
+          4.6
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          704,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "arm_underlayer",
+        "center": [
+          1,
+          4.2,
+          0
+        ],
+        "size": [
+          4.58,
+          11.4,
+          4.58
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          768,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "pauldron_cap",
+        "center": [
+          1.5,
+          -1.2,
+          0
+        ],
+        "size": [
+          6.7,
+          3.7,
+          6.7
+        ],
+        "material": "plate",
+        "shape": "wedge",
+        "rotation": [
+          0,
+          0,
+          -6
+        ],
+        "bevel": 0.16,
+        "uv": [
+          832,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "pauldron_lower",
+        "center": [
+          1.45,
+          0.65,
+          0
+        ],
+        "size": [
+          6.6,
+          1.6,
+          6.5
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          896,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "pauldron_olive",
+        "center": [
+          1.55,
+          -1.3,
+          -3.51
+        ],
+        "size": [
+          4.85,
+          1.5,
+          0.36
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          -6
+        ],
+        "bevel": 0.12,
+        "uv": [
+          960,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "pauldron_side_olive",
+        "center": [
+          4.95,
+          -1.2,
+          0
+        ],
+        "size": [
+          4.1,
+          1.25,
+          0.26
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          -90,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1024,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "pauldron_fastener",
+        "center": [
+          -0.5,
+          -0.3,
+          -3.8
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1088,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "upper_arm",
+        "center": [
+          1,
+          2.45,
+          0
+        ],
+        "size": [
+          4.7,
+          2.45,
+          4.85
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1152,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "elbow_cap",
+        "center": [
+          1,
+          4.6,
+          -2.3
+        ],
+        "size": [
+          4.85,
+          2.45,
+          1.25
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1216,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "elbow_back",
+        "center": [
+          1,
+          4.65,
+          2.25
+        ],
+        "size": [
+          4.6,
+          2.3,
+          1.15
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1280,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "forearm_bracer",
+        "center": [
+          1,
+          6.65,
+          0
+        ],
+        "size": [
+          4.95,
+          2.85,
+          4.9
+        ],
+        "material": "plate",
+        "shape": "round",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1344,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "gauntlet_cuff",
+        "center": [
+          1,
+          5.85,
+          0
+        ],
+        "size": [
+          5.05,
+          0.75,
+          5.0
+        ],
+        "material": "edge",
+        "shape": "round",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1408,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "gauntlet_face_rim",
+        "center": [
+          1,
+          6.7,
+          -2.52
+        ],
+        "size": [
+          3.35,
+          2.15,
+          0.22
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1472,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "gauntlet_face_olive",
+        "center": [
+          1,
+          6.7,
+          -2.62
+        ],
+        "size": [
+          2.5795000000000003,
+          1.677,
+          0.17600000000000002
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1536,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "gauntlet_brass_tip",
+        "center": [
+          1,
+          5.9,
+          -2.67
+        ],
+        "size": [
+          0.62,
+          0.55,
+          0.17
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1600,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "gauntlet_shell",
+        "center": [
+          1,
+          10.4,
+          0
+        ],
+        "size": [
+          4.65,
+          3.35,
+          4.65
+        ],
+        "material": "plate",
+        "shape": "glove",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.06,
+        "uv": [
+          1664,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "knuckle_guard",
+        "center": [
+          1,
+          9.62,
+          -2.42
+        ],
+        "size": [
+          3.9,
+          0.8,
+          0.28
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.24,
+        "uv": [
+          1728,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "finger_tip_0",
+        "center": [
+          -0.21999999999999997,
+          11.57,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1792,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "finger_tip_1",
+        "center": [
+          1,
+          11.47,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1856,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "finger_tip_2",
+        "center": [
+          2.2199999999999998,
+          11.63,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1920,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "thumb_base",
+        "center": [
+          -1.1800000000000002,
+          10.14,
+          -1.03
+        ],
+        "size": [
+          0.7,
+          1.65,
+          1.6
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          14
+        ],
+        "bevel": 0.2,
+        "uv": [
+          1984,
+          64
+        ]
+      },
+      {
+        "part": "left_arm",
+        "name": "thumb_tip",
+        "center": [
+          -0.9299999999999999,
+          10.92,
+          -2.02
+        ],
+        "size": [
+          0.76,
+          0.85,
+          0.8
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          10
+        ],
+        "bevel": 0.2,
+        "uv": [
+          0,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "arm_underlayer",
+        "center": [
+          -1,
+          4.2,
+          0
+        ],
+        "size": [
+          4.58,
+          11.4,
+          4.58
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          64,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "pauldron_cap",
+        "center": [
+          -1.5,
+          -1.65,
+          0
+        ],
+        "size": [
+          7.15,
+          3.7,
+          6.7
+        ],
+        "material": "plate",
+        "shape": "wedge",
+        "rotation": [
+          0,
+          0,
+          6
+        ],
+        "bevel": 0.16,
+        "uv": [
+          128,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "pauldron_lower",
+        "center": [
+          -1.45,
+          0.65,
+          0
+        ],
+        "size": [
+          6.6,
+          1.6,
+          6.5
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          192,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "pauldron_olive",
+        "center": [
+          -1.55,
+          -1.75,
+          -3.51
+        ],
+        "size": [
+          4.85,
+          1.5,
+          0.36
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          6
+        ],
+        "bevel": 0.12,
+        "uv": [
+          256,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "pauldron_side_olive",
+        "center": [
+          -4.95,
+          -1.65,
+          0
+        ],
+        "size": [
+          4.1,
+          1.25,
+          0.26
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          320,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "pauldron_fastener",
+        "center": [
+          0.5,
+          -0.3,
+          -3.8
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          384,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "upper_arm",
+        "center": [
+          -1,
+          2.45,
+          0
+        ],
+        "size": [
+          4.7,
+          2.45,
+          4.85
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          448,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "elbow_cap",
+        "center": [
+          -1,
+          4.6,
+          -2.3
+        ],
+        "size": [
+          4.85,
+          2.45,
+          1.25
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          512,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "elbow_back",
+        "center": [
+          -1,
+          4.65,
+          2.25
+        ],
+        "size": [
+          4.6,
+          2.3,
+          1.15
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          576,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "forearm_bracer",
+        "center": [
+          -1,
+          6.65,
+          0
+        ],
+        "size": [
+          4.95,
+          2.85,
+          4.9
+        ],
+        "material": "plate",
+        "shape": "round",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          640,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "gauntlet_cuff",
+        "center": [
+          -1,
+          5.85,
+          0
+        ],
+        "size": [
+          5.05,
+          0.75,
+          5.0
+        ],
+        "material": "edge",
+        "shape": "round",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          704,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "gauntlet_face_rim",
+        "center": [
+          -1,
+          6.7,
+          -2.52
+        ],
+        "size": [
+          3.35,
+          2.15,
+          0.22
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          768,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "gauntlet_face_olive",
+        "center": [
+          -1,
+          6.7,
+          -2.62
+        ],
+        "size": [
+          2.5795000000000003,
+          1.677,
+          0.17600000000000002
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          832,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "gauntlet_brass_tip",
+        "center": [
+          -1,
+          5.9,
+          -2.67
+        ],
+        "size": [
+          0.62,
+          0.55,
+          0.17
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          896,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "gauntlet_shell",
+        "center": [
+          -1,
+          10.4,
+          0
+        ],
+        "size": [
+          4.65,
+          3.35,
+          4.65
+        ],
+        "material": "plate",
+        "shape": "glove",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.06,
+        "uv": [
+          960,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "knuckle_guard",
+        "center": [
+          -1,
+          9.62,
+          -2.42
+        ],
+        "size": [
+          3.9,
+          0.8,
+          0.28
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.24,
+        "uv": [
+          1024,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "finger_tip_0",
+        "center": [
+          -2.2199999999999998,
+          11.57,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1088,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "finger_tip_1",
+        "center": [
+          -1,
+          11.47,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1152,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "finger_tip_2",
+        "center": [
+          0.21999999999999997,
+          11.63,
+          -2.12
+        ],
+        "size": [
+          1.03,
+          0.88,
+          0.55
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          -14,
+          0,
+          0
+        ],
+        "bevel": 0.28,
+        "uv": [
+          1216,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "thumb_base",
+        "center": [
+          1.1800000000000002,
+          10.14,
+          -1.03
+        ],
+        "size": [
+          0.7,
+          1.65,
+          1.6
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          -14
+        ],
+        "bevel": 0.2,
+        "uv": [
+          1280,
+          128
+        ]
+      },
+      {
+        "part": "right_arm",
+        "name": "thumb_tip",
+        "center": [
+          0.9299999999999999,
+          10.92,
+          -2.02
+        ],
+        "size": [
+          0.76,
+          0.85,
+          0.8
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "bevel": 0.2,
+        "uv": [
+          1344,
+          128
+        ]
+      }
+    ],
+    "greaves_of_the_stillborn": [
+      {
+        "part": "body",
+        "name": "waist_underlayer",
+        "center": [
+          0,
+          10.9,
+          0
+        ],
+        "size": [
+          8.8,
+          2.2,
+          4.9
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1408,
+          128
+        ]
+      },
+      {
+        "part": "body",
+        "name": "belt",
+        "center": [
+          0,
+          10.8,
+          0
+        ],
+        "size": [
+          9.5,
+          1.65,
+          5.65
+        ],
+        "material": "plate",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1472,
+          128
+        ]
+      },
+      {
+        "part": "body",
+        "name": "belt_buckle",
+        "center": [
+          0,
+          10.8,
+          -3.03
+        ],
+        "size": [
+          2.1,
+          1.45,
+          0.28
+        ],
+        "material": "brass",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1536,
+          128
+        ]
+      },
+      {
+        "part": "body",
+        "name": "belt_buckle_inset",
+        "center": [
+          0,
+          10.8,
+          -3.23
+        ],
+        "size": [
+          1.0,
+          0.8,
+          0.18
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1600,
+          128
+        ]
+      },
+      {
+        "part": "body",
+        "name": "belt_stud-1",
+        "center": [
+          -3.55,
+          10.8,
+          -3.04
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1664,
+          128
+        ]
+      },
+      {
+        "part": "body",
+        "name": "belt_stud1",
+        "center": [
+          3.55,
+          10.8,
+          -3.04
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1728,
+          128
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "leg_underlayer",
+        "center": [
+          0,
+          3.5,
+          0
+        ],
+        "size": [
+          4.62,
+          7.6,
+          4.62
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1792,
+          128
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "thigh_front",
+        "center": [
+          0.28,
+          2.0,
+          -2.62
+        ],
+        "size": [
+          4.3,
+          5.0,
+          1.05
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          -5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1856,
+          128
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "thigh_front_field",
+        "center": [
+          0.28,
+          1.8,
+          -3.19
+        ],
+        "size": [
+          3.35,
+          4.1,
+          0.35
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          -5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1920,
+          128
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "thigh_center_plate",
+        "center": [
+          0.15,
+          1.5,
+          -3.43
+        ],
+        "size": [
+          2.25,
+          4.0,
+          0.32
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          -5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1984,
+          128
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "hip_outer",
+        "center": [
+          2.0,
+          1.8,
+          0.2
+        ],
+        "size": [
+          1.5,
+          5.0,
+          4.8
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          -6
+        ],
+        "bevel": 0.12,
+        "uv": [
+          0,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "thigh_back",
+        "center": [
+          0.22,
+          2.0,
+          2.55
+        ],
+        "size": [
+          4.5,
+          4.8,
+          1.1
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          4
+        ],
+        "bevel": 0.12,
+        "uv": [
+          64,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "back_olive",
+        "center": [
+          0.22,
+          1.8,
+          3.16
+        ],
+        "size": [
+          2.7,
+          3.2,
+          0.25
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          128,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "tasset_fastener",
+        "center": [
+          0.15,
+          0.0,
+          -3.69
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          192,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "knee_rim",
+        "center": [
+          0,
+          6.5,
+          -2.67
+        ],
+        "size": [
+          4.7,
+          4.6,
+          1.2
+        ],
+        "material": "edge",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          256,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "knee_brass",
+        "center": [
+          0,
+          6.5,
+          -3.33
+        ],
+        "size": [
+          3.25,
+          3.25,
+          0.3
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          320,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "knee_olive",
+        "center": [
+          0,
+          6.5,
+          -3.54
+        ],
+        "size": [
+          2.45,
+          2.45,
+          0.3
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          384,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "knee_center",
+        "center": [
+          0,
+          6.5,
+          -3.74
+        ],
+        "size": [
+          1.35,
+          1.8,
+          0.22
+        ],
+        "material": "plate",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          448,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "knee_rear",
+        "center": [
+          0,
+          6.45,
+          2.25
+        ],
+        "size": [
+          4.1,
+          2.2,
+          0.95
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          512,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "leg_underlayer",
+        "center": [
+          0,
+          3.5,
+          0
+        ],
+        "size": [
+          4.62,
+          7.6,
+          4.62
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          576,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "thigh_front",
+        "center": [
+          -0.28,
+          2.0,
+          -2.62
+        ],
+        "size": [
+          4.3,
+          5.0,
+          1.05
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          640,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "thigh_front_field",
+        "center": [
+          -0.28,
+          1.8,
+          -3.19
+        ],
+        "size": [
+          3.35,
+          4.1,
+          0.35
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          704,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "thigh_center_plate",
+        "center": [
+          -0.15,
+          1.5,
+          -3.43
+        ],
+        "size": [
+          2.25,
+          4.0,
+          0.32
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          5
+        ],
+        "bevel": 0.12,
+        "uv": [
+          768,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "hip_outer",
+        "center": [
+          -2.0,
+          1.8,
+          0.2
+        ],
+        "size": [
+          1.5,
+          5.0,
+          4.8
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          6
+        ],
+        "bevel": 0.12,
+        "uv": [
+          832,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "thigh_back",
+        "center": [
+          -0.22,
+          2.0,
+          2.55
+        ],
+        "size": [
+          4.5,
+          4.8,
+          1.1
+        ],
+        "material": "plate",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          -4
+        ],
+        "bevel": 0.12,
+        "uv": [
+          896,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "back_olive",
+        "center": [
+          -0.22,
+          1.8,
+          3.16
+        ],
+        "size": [
+          2.7,
+          3.2,
+          0.25
+        ],
+        "material": "olive",
+        "shape": "shield",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          960,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "tasset_fastener",
+        "center": [
+          -0.15,
+          0.0,
+          -3.69
+        ],
+        "size": [
+          0.55,
+          0.55,
+          0.25
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1024,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "knee_rim",
+        "center": [
+          0,
+          6.5,
+          -2.67
+        ],
+        "size": [
+          4.7,
+          4.6,
+          1.2
+        ],
+        "material": "edge",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1088,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "knee_brass",
+        "center": [
+          0,
+          6.5,
+          -3.33
+        ],
+        "size": [
+          3.25,
+          3.25,
+          0.3
+        ],
+        "material": "brass",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1152,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "knee_olive",
+        "center": [
+          0,
+          6.5,
+          -3.54
+        ],
+        "size": [
+          2.45,
+          2.45,
+          0.3
+        ],
+        "material": "olive",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1216,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "knee_center",
+        "center": [
+          0,
+          6.5,
+          -3.74
+        ],
+        "size": [
+          1.35,
+          1.8,
+          0.22
+        ],
+        "material": "plate",
+        "shape": "diamond",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1280,
+          192
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "knee_rear",
+        "center": [
+          0,
+          6.45,
+          2.25
+        ],
+        "size": [
+          4.1,
+          2.2,
+          0.95
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1344,
+          192
+        ]
+      }
+    ],
+    "treads_of_the_worldbreaker": [
+      {
+        "part": "left_leg",
+        "name": "boot_underlayer",
+        "center": [
+          0,
+          9.4,
+          0
+        ],
+        "size": [
+          4.62,
+          5.2,
+          4.62
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1408,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "shin_shell",
+        "center": [
+          0,
+          9.15,
+          0
+        ],
+        "size": [
+          4.85,
+          4.9,
+          5.0
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.14,
+        "uv": [
+          1472,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "shin_olive",
+        "center": [
+          0.82,
+          8.8,
+          -2.66
+        ],
+        "size": [
+          1.0,
+          2.8,
+          0.32
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1536,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "shin_ridge",
+        "center": [
+          0,
+          8.9,
+          -2.68
+        ],
+        "size": [
+          0.85,
+          3.5,
+          0.38
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1600,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "shin_upper",
+        "center": [
+          0,
+          7.38,
+          0
+        ],
+        "size": [
+          5.0,
+          1.0,
+          5.2
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1664,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "heel",
+        "center": [
+          0,
+          10.35,
+          2.2
+        ],
+        "size": [
+          4.6,
+          2.5,
+          1.4
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1728,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "toe_shell",
+        "center": [
+          0,
+          10.62,
+          -1.25
+        ],
+        "size": [
+          5.05,
+          2.65,
+          7.0
+        ],
+        "material": "plate",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.18,
+        "uv": [
+          1792,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "toe_cap",
+        "center": [
+          0,
+          10.65,
+          -4.77
+        ],
+        "size": [
+          2.1,
+          1.55,
+          0.34
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.22,
+        "uv": [
+          1856,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "instep",
+        "center": [
+          0,
+          9.8,
+          -2.75
+        ],
+        "size": [
+          3.4,
+          1.5,
+          2.7
+        ],
+        "material": "plate",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.18,
+        "uv": [
+          1920,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "instep_ridge",
+        "center": [
+          0,
+          9.07,
+          -2.85
+        ],
+        "size": [
+          1.05,
+          0.2,
+          2.3
+        ],
+        "material": "edge",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          1984,
+          192
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "toe_side_-1",
+        "center": [
+          -1.73,
+          10.4,
+          -3.12
+        ],
+        "size": [
+          0.75,
+          1.55,
+          2.45
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          -16,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          0,
+          256
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "toe_side_1",
+        "center": [
+          1.73,
+          10.4,
+          -3.12
+        ],
+        "size": [
+          0.75,
+          1.55,
+          2.45
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          16,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          64,
+          256
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "sole",
+        "center": [
+          0,
+          11.7,
+          -1.25
+        ],
+        "size": [
+          5.05,
+          0.6,
+          7.0
+        ],
+        "material": "black",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          128,
+          256
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "boot_strap",
+        "center": [
+          0,
+          9.88,
+          -3.0
+        ],
+        "size": [
+          4.85,
+          0.8,
+          0.65
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          192,
+          256
+        ]
+      },
+      {
+        "part": "left_leg",
+        "name": "boot_buckle",
+        "center": [
+          0.85,
+          9.9,
+          -3.47
+        ],
+        "size": [
+          0.8,
+          0.72,
+          0.22
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          256,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "boot_underlayer",
+        "center": [
+          0,
+          9.4,
+          0
+        ],
+        "size": [
+          4.62,
+          5.2,
+          4.62
+        ],
+        "material": "black",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          320,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "shin_shell",
+        "center": [
+          0,
+          9.15,
+          0
+        ],
+        "size": [
+          4.85,
+          4.9,
+          5.0
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.14,
+        "uv": [
+          384,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "shin_olive",
+        "center": [
+          -0.82,
+          8.8,
+          -2.66
+        ],
+        "size": [
+          1.0,
+          2.8,
+          0.32
+        ],
+        "material": "olive",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          448,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "shin_ridge",
+        "center": [
+          0,
+          8.9,
+          -2.68
+        ],
+        "size": [
+          0.85,
+          3.5,
+          0.38
+        ],
+        "material": "edge",
+        "shape": "shield",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          512,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "shin_upper",
+        "center": [
+          0,
+          7.38,
+          0
+        ],
+        "size": [
+          5.0,
+          1.0,
+          5.2
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          576,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "heel",
+        "center": [
+          0,
+          10.35,
+          2.2
+        ],
+        "size": [
+          4.6,
+          2.5,
+          1.4
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          180,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          640,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "toe_shell",
+        "center": [
+          0,
+          10.62,
+          -1.25
+        ],
+        "size": [
+          5.05,
+          2.65,
+          7.0
+        ],
+        "material": "plate",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.18,
+        "uv": [
+          704,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "toe_cap",
+        "center": [
+          0,
+          10.65,
+          -4.77
+        ],
+        "size": [
+          2.1,
+          1.55,
+          0.34
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.22,
+        "uv": [
+          768,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "instep",
+        "center": [
+          0,
+          9.8,
+          -2.75
+        ],
+        "size": [
+          3.4,
+          1.5,
+          2.7
+        ],
+        "material": "plate",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.18,
+        "uv": [
+          832,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "instep_ridge",
+        "center": [
+          0,
+          9.07,
+          -2.85
+        ],
+        "size": [
+          1.05,
+          0.2,
+          2.3
+        ],
+        "material": "edge",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          896,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "toe_side_-1",
+        "center": [
+          -1.73,
+          10.4,
+          -3.12
+        ],
+        "size": [
+          0.75,
+          1.55,
+          2.45
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          -16,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          960,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "toe_side_1",
+        "center": [
+          1.73,
+          10.4,
+          -3.12
+        ],
+        "size": [
+          0.75,
+          1.55,
+          2.45
+        ],
+        "material": "edge",
+        "shape": "plate",
+        "rotation": [
+          0,
+          16,
+          0
+        ],
+        "bevel": 0.16,
+        "uv": [
+          1024,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "sole",
+        "center": [
+          0,
+          11.7,
+          -1.25
+        ],
+        "size": [
+          5.05,
+          0.6,
+          7.0
+        ],
+        "material": "black",
+        "shape": "boot",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1088,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "boot_strap",
+        "center": [
+          0,
+          9.88,
+          -3.0
+        ],
+        "size": [
+          4.85,
+          0.8,
+          0.65
+        ],
+        "material": "plate",
+        "shape": "plate",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0.12,
+        "uv": [
+          1152,
+          256
+        ]
+      },
+      {
+        "part": "right_leg",
+        "name": "boot_buckle",
+        "center": [
+          -0.85,
+          9.9,
+          -3.47
+        ],
+        "size": [
+          0.8,
+          0.72,
+          0.22
+        ],
+        "material": "brass",
+        "shape": "rect",
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bevel": 0,
+        "uv": [
+          1216,
+          256
+        ]
+      }
+    ]
+  }
+}

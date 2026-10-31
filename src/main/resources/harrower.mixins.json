@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.leyline.harrower.mixin",
+  "plugin": "com.leyline.harrower.integration.HarrowerMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DamagePipelineMixin",
+    "CoreLeylineMixin",
+    "GroundPressureMixin",
+    "TerrainFootprintMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

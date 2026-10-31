@@ -1,0 +1,68 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved; Hollow Fragment component retains MIT licensing"
+
+[[mods]]
+modId="lc_harrower"
+version="1.0.0"
+displayName="The Harrower"
+authors="Adam Silfven"
+description="An immense stone horror summoned through the Hollow Cairn. Defeat the Harrower to claim its Hollow Core and forge Hollowforged equipment."
+[[dependencies.lc_harrower]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+side="BOTH"
+[[dependencies.lc_harrower]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.259,21.2)"
+side="BOTH"
+
+[[mixins]]
+config="harrower.mixins.json"
+
+[[dependencies.lc_harrower]]
+modId="leyline_convergence"
+type="optional"
+versionRange="[0.9.3,)"
+ordering="AFTER"
+side="BOTH"
+
+[[mods]]
+modId="lc_hollowforged"
+version="1.0.2"
+displayName="Hollowforged"
+authors="Adam Silfven"
+description="Hollowforged armor and Worldshard, crafted with the Hollow Core. Included with The Harrower."
+[[mixins]]
+config="lc_hollowforged.mixins.json"
+[[dependencies.lc_hollowforged]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+side="BOTH"
+[[dependencies.lc_hollowforged]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.259,)"
+side="BOTH"
+
+[[mods]]
+modId="hollow_fragment_addon"
+version="1.0.1"
+displayName="Hollow Fragment"
+authors="Leyline Convergence"
+description="A fragment used as the offering for the Hollow Cairn summoning ritual. Included with The Harrower."
+[[dependencies.hollow_fragment_addon]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.hollow_fragment_addon]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.259,)"
+ordering="NONE"
+side="BOTH"

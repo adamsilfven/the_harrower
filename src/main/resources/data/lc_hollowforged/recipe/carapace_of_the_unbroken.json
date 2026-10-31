@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "N N",
+    "DCD",
+    "NSN"
+  ],
+  "key": {
+    "C": {
+      "item": "lc_hollowforged:hollow_core"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "lc_hollowforged:carapace_of_the_unbroken",
+    "count": 1
+  }
+}

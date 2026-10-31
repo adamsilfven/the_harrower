@@ -1,0 +1,20 @@
+{
+  "assets/lc_hollowforged/models/item/carapace_of_the_unbroken.json": "f809b7894bc9cad5fdc22e715f6db24741a23530de31c00d8aaf4bbab4e79b80",
+  "assets/lc_hollowforged/models/item/crown_of_the_hollow.json": "ef0155565f3918e3612520a292f00f2ecdc958e89235f483c83832611c3ca990",
+  "assets/lc_hollowforged/models/item/greaves_of_the_stillborn.json": "cf25542cfe3fc10335aa506ee0bb1c7a691df10981e8c5d49f26cf57b27797e7",
+  "assets/lc_hollowforged/models/item/hollow_core.json": "541231bf1a01ccfc9193bb3d82e504563066ded33e1309fdcb9b4ca54aa986ff",
+  "assets/lc_hollowforged/models/item/treads_of_the_worldbreaker.json": "722dd48b823ad93fa8715fa46ad8c29ae54b3d5727de803fe7a6b045f8691eaa",
+  "assets/lc_hollowforged/models/item/worldshard.json": "6b5706201413a927c4392de722ba235e1903cdcfb7612eda1bcf95aacaed9522",
+  "assets/lc_hollowforged/textures/item/carapace_of_the_unbroken_icon.png": "2a0ed0c7bbb16683f2f3fe408dd0cb9c7b7419d17073b79517addc6e02835ee8",
+  "assets/lc_hollowforged/textures/item/crown_of_the_hollow_icon.png": "de8112993660a598d581ca22348a82513490de2e8889b6385194586e96cf0156",
+  "assets/lc_hollowforged/textures/item/greaves_of_the_stillborn_icon.png": "c401ea24f96fb8209e9f462cee3404f2df3c184f6c770aa18bcf6dda65e4497e",
+  "assets/lc_hollowforged/textures/item/hollow_core_icon.png": "c8b9f62dcc725bd91dd0e5a6d5073d646573408900134f6ed5d0ad115263986f",
+  "assets/lc_hollowforged/textures/item/hollowforged.png": "ba7d5a58a55d29d2ee37e6383cfda27e4e0cb387af0e7431cdc8479cf08d0e62",
+  "assets/lc_hollowforged/textures/item/mountain_king.png": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+  "assets/lc_hollowforged/textures/item/treads_of_the_worldbreaker_icon.png": "95372489edb79ee916eb7e4f8c803642bd24e85d2be83a9b3280999040026211",
+  "assets/lc_hollowforged/textures/item/worldshard_icon.png": "f4f7e2c512a0427decd3a5f9aa2280ecfa47fedc2142b8b00bb47b00bff4d7d1",
+  "assets/lc_hollowforged/textures/models/armor/hollowforged_glow.png": "8fc8af1ab29c4ccc3d3447fbb86c5c18cd5da3c39f4ebe5124d95fe31235f4d6",
+  "assets/lc_hollowforged/textures/models/armor/hollowforged_layer_1.png": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+  "assets/lc_hollowforged/textures/models/armor/hollowforged_layer_2.png": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+  "assets/lc_hollowforged/textures/item/worldshard_087.png": "04fa34ff29f03e5f7447024be6ae0500dbed2c482046450ff31bd38d6140780b"
+}

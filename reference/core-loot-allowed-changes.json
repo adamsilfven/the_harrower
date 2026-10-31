@@ -1,0 +1,10 @@
+[
+  "META-INF/neoforge.mods.toml",
+  "com/leyline/hollowforged/Hollowforged.class",
+  "com/leyline/hollowforged/EncounterRewards.class",
+  "com/leyline/hollowforged/CombatChecks.class",
+  "assets/lc_hollowforged/models/item/hollow_core.json",
+  "assets/lc_hollowforged/textures/item/hollow_core_icon.png",
+  "assets/lc_hollowforged/lang/en_us.json",
+  "com/leyline/hollowforged/EncounterRewards$Color.class"
+]

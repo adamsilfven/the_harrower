@@ -1,0 +1,170 @@
+{
+  "heavy_step": {
+    "subtitle": "subtitles.lc_harrower.heavy_step",
+    "sounds": [
+      {
+        "name": "lc_harrower:heavy_step_0",
+        "attenuation_distance": 64
+      },
+      {
+        "name": "lc_harrower:heavy_step_1",
+        "attenuation_distance": 64
+      },
+      {
+        "name": "lc_harrower:heavy_step_2",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "stone_grind": {
+    "subtitle": "subtitles.lc_harrower.stone_grind",
+    "sounds": [
+      {
+        "name": "lc_harrower:stone_grind_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:stone_grind_1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:stone_grind_2",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "mountain_breath": {
+    "subtitle": "subtitles.lc_harrower.mountain_breath",
+    "sounds": [
+      {
+        "name": "lc_harrower:mountain_breath_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:mountain_breath_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "world_impact": {
+    "subtitle": "subtitles.lc_harrower.world_impact",
+    "sounds": [
+      {
+        "name": "lc_harrower:world_impact_0",
+        "attenuation_distance": 64
+      },
+      {
+        "name": "lc_harrower:world_impact_1",
+        "attenuation_distance": 64
+      },
+      {
+        "name": "lc_harrower:world_impact_2",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "fist_warning": {
+    "subtitle": "subtitles.lc_harrower.fist_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:fist_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:fist_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "sweep_warning": {
+    "subtitle": "subtitles.lc_harrower.sweep_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:sweep_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:sweep_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "foot_warning": {
+    "subtitle": "subtitles.lc_harrower.foot_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:foot_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:foot_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "rupture_warning": {
+    "subtitle": "subtitles.lc_harrower.rupture_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:rupture_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:rupture_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "charge_warning": {
+    "subtitle": "subtitles.lc_harrower.charge_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:charge_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:charge_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "grasp_warning": {
+    "subtitle": "subtitles.lc_harrower.grasp_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:grasp_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:grasp_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "hollowing_warning": {
+    "subtitle": "subtitles.lc_harrower.hollowing_warning",
+    "sounds": [
+      {
+        "name": "lc_harrower:hollowing_warning_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:hollowing_warning_1",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "phase_strain": {
+    "subtitle": "subtitles.lc_harrower.phase_strain",
+    "sounds": [
+      {
+        "name": "lc_harrower:phase_strain_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "lc_harrower:phase_strain_1",
+        "attenuation_distance": 48
+      }
+    ]
+  }
+}

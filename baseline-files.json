@@ -1,0 +1,1082 @@
+[
+  {
+    "component": "harrower",
+    "path": "resources/harrower.mixins.json",
+    "sha256": "482f1c678be68f1c5740a07fe3aa5b100477c72d3c4e90e0e8c3e8cb75d50bc2",
+    "bytes": 363
+  },
+  {
+    "component": "harrower",
+    "path": "resources/META-INF/neoforge.mods.toml",
+    "sha256": "ae7e6e00001712fdb42f6f852d2a3c9316c4b3f5455efd9e43f62d81e2cd653e",
+    "bytes": 645
+  },
+  {
+    "component": "harrower",
+    "path": "resources/data/minecraft/tags/damage_type/bypasses_shield.json",
+    "sha256": "ce1b3ba7d1a80d187deccb665bf58092138c259ab8286d07c874925fe1b43099",
+    "bytes": 96
+  },
+  {
+    "component": "harrower",
+    "path": "resources/data/lc_harrower/damage_type/ground_wave.json",
+    "sha256": "b55e3a49dc6c39b64e1e3ca012f847878f2fd80be54d9dfe3490add5ce1c4917",
+    "bytes": 97
+  },
+  {
+    "component": "harrower",
+    "path": "resources/data/lc_harrower/damage_type/grasp.json",
+    "sha256": "b55e3a49dc6c39b64e1e3ca012f847878f2fd80be54d9dfe3490add5ce1c4917",
+    "bytes": 97
+  },
+  {
+    "component": "harrower",
+    "path": "resources/data/lc_harrower/damage_type/ground_crush.json",
+    "sha256": "b55e3a49dc6c39b64e1e3ca012f847878f2fd80be54d9dfe3490add5ce1c4917",
+    "bytes": 97
+  },
+  {
+    "component": "harrower",
+    "path": "resources/data/lc_harrower/damage_type/impact.json",
+    "sha256": "b55e3a49dc6c39b64e1e3ca012f847878f2fd80be54d9dfe3490add5ce1c4917",
+    "bytes": 97
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds.json",
+    "sha256": "4f9b0e71b9cb0a484f4ae49826155c37545a6945e9dafb9add47e4b6bf41d64c",
+    "bytes": 3893
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/heavy_step_2.ogg",
+    "sha256": "6225c6d76afff3175a4b7d9e6c6c7f749b02d5c53b89f1bf778778cecff11573",
+    "bytes": 10162
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/heavy_step.ogg",
+    "sha256": "b6bf7d8a2b5b1412d16fe600f9c00c79070bf47056ba52d71eafbde807cfba11",
+    "bytes": 12839
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/hollowing_warning_1.ogg",
+    "sha256": "766b87a51f8ca91d2625ebc735b7cb5d14b0f819f052d52ce26e352d044baba7",
+    "bytes": 36267
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/stone_grind_0.ogg",
+    "sha256": "1ded669ed668a3e82d8d8af6219621b30f038d5b7562d5882039e567fa08be8e",
+    "bytes": 11881
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/sweep_warning_1.ogg",
+    "sha256": "38791147274cbab47d60f60467f0615589ce0e2f5c6340d2b0724057558cad05",
+    "bytes": 11817
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/charge_warning_1.ogg",
+    "sha256": "6325a75cc8ad80f348f85d256652df992e72bc2b35daf93d1b4d5b48523076d2",
+    "bytes": 18370
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/fist_warning_1.ogg",
+    "sha256": "fa71df1b02b5d34258075c21bef259dee5787ec39a558e73b6dceeebbb17e5c4",
+    "bytes": 9967
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/foot_warning_0.ogg",
+    "sha256": "da83db27cf581b17342bf49bbb0a14e05cef098f6e675bd7fc2c3740008ff10d",
+    "bytes": 13335
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/mountain_breath_1.ogg",
+    "sha256": "67bdfcf9bfa8a6fdf12b8e03d477d110f802bb6fcbfa3523650356e382161881",
+    "bytes": 33645
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/heavy_step_0.ogg",
+    "sha256": "28bbb87fc6de04e1a25b680b496d8dae6de8c26a4d07f09178c20eadb3a3bbcb",
+    "bytes": 10719
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/grasp_warning_0.ogg",
+    "sha256": "84f0ca828f9b9f7a63970989750316c3875d58e535d9d4de2d0aabebdabda70a",
+    "bytes": 16850
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/world_impact_0.ogg",
+    "sha256": "27e1f78abb0f77af394533da7b8e8224e09bf2d9490166c5eb72d418cae7c9a6",
+    "bytes": 26990
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/world_impact_2.ogg",
+    "sha256": "ab25c975788b78cf6e5917dc670881d5cd7a499f444c5146f31cd639daf93050",
+    "bytes": 26623
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/foot_warning_1.ogg",
+    "sha256": "81889a905fc10b9e29b195b8a8da133e71fc11136651f70bc2c2664cea46e23f",
+    "bytes": 13393
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/rupture_warning_0.ogg",
+    "sha256": "53f1708b1b88ad5b89c7126746e4db62d69beafd3a42fb6865854d00ccabc7c4",
+    "bytes": 18511
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/sweep_warning_0.ogg",
+    "sha256": "c8e9271cb8eeddb4f7988e1f4cf2eb4617dfaedd66520731526688c94467b145",
+    "bytes": 12433
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/world_impact_1.ogg",
+    "sha256": "0973a5be567bb4d9856e5d9f8f19a33042dc562a9c84ebbc01d0279e9ef7bcd1",
+    "bytes": 26904
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/phase_strain_1.ogg",
+    "sha256": "46c4c58b50b9bb49cbf1847b8f5417a25025ceb9125afc78629b971ea0664dbe",
+    "bytes": 24699
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/heavy_step_1.ogg",
+    "sha256": "b84c7076c668731f025fca47d747d0028d9e23b9c8dd809a23629d3d007932f5",
+    "bytes": 10352
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/stone_grind_1.ogg",
+    "sha256": "bec4dbdc8dafa4003069dd0d1ab02e2dec08c4b48c1be4316eeeb55f7a9e14ea",
+    "bytes": 13108
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/charge_warning_0.ogg",
+    "sha256": "d418194c0020eaac4248cb1fb41156179f089ae010b82061f9c4fdb3e23b0830",
+    "bytes": 17839
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/mountain_breath_0.ogg",
+    "sha256": "a5585482d1ec355c593f5bb4bc3e186e11adc578d077dcbafe26bcbe99fd8c3b",
+    "bytes": 34245
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/phase_strain_0.ogg",
+    "sha256": "8842f4d196d4f622e73e5db0045026b14db3f266874178049e90c2d9bf682bd9",
+    "bytes": 25138
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/mountain_breath.ogg",
+    "sha256": "f408e3522fc7c28bc21a804bcfe2f74510f6db2c578cb78008eb618b14bfc4fc",
+    "bytes": 37327
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/rupture_warning_1.ogg",
+    "sha256": "8d7b3104cf54bd397e08971a97a1a2af13812f7c8077880afd64363bb9d96120",
+    "bytes": 18178
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/hollowing_warning_0.ogg",
+    "sha256": "b7e47363745196e0d26201c84d6055b52c3e25ac07ec0a30d63be165c44ffe24",
+    "bytes": 35907
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/stone_grind_2.ogg",
+    "sha256": "e091e37c252f99e9a9cf9c866be537192984658567acde7879963ce8b70d9e97",
+    "bytes": 12329
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/stone_grind.ogg",
+    "sha256": "0718e810b39fbaa2f07ec37d9583c1b1741252e01271e72fd9c88dd218e43e5f",
+    "bytes": 16744
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/fist_warning_0.ogg",
+    "sha256": "092807048e61de31c23a21299296fffaf9f4923f1774cc361ebe6c43be3349e3",
+    "bytes": 9707
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/sounds/grasp_warning_1.ogg",
+    "sha256": "3808ddb6af8400b48c07f21e6a0b52d9e95a5b916179d3fdd001d9d369499126",
+    "bytes": 16698
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/lang/en_us.json",
+    "sha256": "00890edadfb5290dd9aa753816225d0ed47a4c41bd28c0e2d6be7573b0cdb2ee",
+    "bytes": 1088
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/animations/death_support.json",
+    "sha256": "d866b47fbd78512df639a4ddc97846249b133521ba7767af8c41e9ed6cc1cb53",
+    "bytes": 37571
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/animations/harrower.json",
+    "sha256": "7cb87479e21912e432dddd1ca76ca31bde81860c18c16a4987b0ad7867732643",
+    "bytes": 968837
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/animations/strike_volumes.json",
+    "sha256": "ea17bc99e6c6a94cb66402c34c921820660142cc9fca98d70977a4af4e435e8f",
+    "bytes": 956955
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/textures/entity/harrower.png",
+    "sha256": "d37b705010a8e53aeddee03783b65900453759bd4456f52ef80203730f1222e5",
+    "bytes": 189239
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/textures/entity/harrower_emissive.png",
+    "sha256": "d392e477df8a7a21acd948600a730756dfc058debd0eb0b8dd4560d2aefb3ae1",
+    "bytes": 4756
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/models/entity/harrower.json",
+    "sha256": "ef5fdf349b652c8fe05f6e6d2f5c20b7a35927adcd1d02b1c6d28e1e4c0d96fa",
+    "bytes": 1053929
+  },
+  {
+    "component": "harrower",
+    "path": "resources/assets/lc_harrower/models/item/harrower_spawn_egg.json",
+    "sha256": "e830523d9f950e2f4062843dc47b55b4f0d60c47710abf5e374ab6176dab8204",
+    "bytes": 46
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/DevelopmentCommands.java",
+    "sha256": "5f87abb5eec81ef24ce096cb7e3db860b759c1eccc2bd4ab8943652b03cece5f",
+    "bytes": 6298
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/CorpseGrounding.java",
+    "sha256": "7ca3caf7cd09b6857b216cd65f7c5a2ae765b037b00cf8cb0b9d997036f67e32",
+    "bytes": 3441
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/Harrower.java",
+    "sha256": "514ceb5713ceb9f3d111d0fa6763d8666d159396e0c1d8fdba1e6cf8a9211d35",
+    "bytes": 15196
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/StrikeVolumes.java",
+    "sha256": "7b966e159bac2a27b6328506e626c08e8482b7ed57e65f54a906b407da02d64f",
+    "bytes": 3637
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/HeavyGait.java",
+    "sha256": "a70d2704347009ffbb4ea8db742ce30b2d3b50c93f66a93155c0951b5dcea16c",
+    "bytes": 9616
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/LegKinematics.java",
+    "sha256": "cf64d1d165a926036d69d44092636d9ff1df410c7c2d30a664d6eea797fecc35",
+    "bytes": 873
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/HeavyMoveControl.java",
+    "sha256": "9b8ac892e0d517ee5f06295629c1a229676cbaae536efa17f9b96246ad8be01d",
+    "bytes": 2401
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/HarrowerNavigation.java",
+    "sha256": "81dc0479db4dc0bd51730efe5d3887e70df62230b3941283ef3046a412c3c7eb",
+    "bytes": 1006
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/HarrowerMod.java",
+    "sha256": "e56bd800df6feeff0494aafb54ae476992625115c5f2f10a31ec881786e007f2",
+    "bytes": 2650
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/integration/CoreLeylineAdapter.java",
+    "sha256": "ce2372d79e037fcb820250be53448a810cc7e89c660abb2b588bbcb1982160c0",
+    "bytes": 9910
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/integration/IntegrationFlags.java",
+    "sha256": "5ead7ea1cdc8a61b4f5063671172727244ba39adf7f3a678c92717d50866ecbb",
+    "bytes": 160
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/integration/HarrowerMixinPlugin.java",
+    "sha256": "eb871f1be49813c2ecd79042c80cd7de58e5c25438bdc795caf134f6b8db58d8",
+    "bytes": 810
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/integration/CoreFingerprint.java",
+    "sha256": "125e16960836d6ce4ada00942bb9153e17b9791d073fee8126c8bf58e41df781",
+    "bytes": 1109
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/mixin/DamagePipelineMixin.java",
+    "sha256": "a5dba6ff393cc7c5d39c986a85a7aae1d0594a6fc8890a3e4e7507a40dcc1f91",
+    "bytes": 1214
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/mixin/GroundPressureMixin.java",
+    "sha256": "126633b9c629e0dd7b4b8012015617958f524e045bdecadb77679d05c53f8b8a",
+    "bytes": 1056
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/mixin/CoreLeylineMixin.java",
+    "sha256": "a8d776aaf97652a0998b154e2fb5e895d98516acd6fb903fd4c7fc75ed5ec0f0",
+    "bytes": 1681
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/mixin/TerrainFootprintMixin.java",
+    "sha256": "97bd1aebaf48d498e74c72b321adc6053f8e62bc0413448fb3c128775935154f",
+    "bytes": 1819
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/CorpseBreakup.java",
+    "sha256": "ee32c23028ab21f42bdb477e9faba2fc71d0d1f12791809b288fcef95c5c6349",
+    "bytes": 1412
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/RockGeometry.java",
+    "sha256": "7007545c7d8f5d877051709479fe84b8dee570603f5481ad3fc53e42017434ab",
+    "bytes": 6003
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerImpacts.java",
+    "sha256": "7a6e338279071027532f759d51fe75810ccf43c58221fb3b0746612279360c2b",
+    "bytes": 3431
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerGroundRipple.java",
+    "sha256": "61f9d45df1d29ece966a77c313d24bfe191c8da29624844b90ca38ae353a4875",
+    "bytes": 3793
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerRenderer.java",
+    "sha256": "ab69e2709ce6eec3db456b0ee8d98de47c856b35b0b2d1b7f565d4adabf7efa7",
+    "bytes": 1836
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerHollowing.java",
+    "sha256": "193ac0a22ea3ae656d7110817f39d22091ddd5a7f379c29aee74c04fe86c87c2",
+    "bytes": 2866
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/ContactAudit.java",
+    "sha256": "27f940f29cebfc313e96387bace935365c325ab5eb217bfe6c6719d2716828ea",
+    "bytes": 3078
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerRubble.java",
+    "sha256": "3c10b9182d1717d25b30f221468533a5ad4ae1539cf055c9037f9933ed32a91e",
+    "bytes": 4841
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerModel.java",
+    "sha256": "0b5855ec29e80fd4be9b8da5bfee274a229552b5a8fdadd31b4042cc3e4c0fe7",
+    "bytes": 14171
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerClient.java",
+    "sha256": "5a128ff56c902158174fbd2fb5ba5ab4a79d5cf477245eda7841609a7186b6bf",
+    "bytes": 737
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/client/HarrowerStoneChips.java",
+    "sha256": "ba1fb48e1d09be673ea88173931fb233dccf324f8e37672927e817d14e81778b",
+    "bytes": 4996
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/HarrowerCombat.java",
+    "sha256": "203628671b706f6e59ff336acaa6b99599435a906fecac3ddb124d608a042b3c",
+    "bytes": 40686
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/LeylineBridge.java",
+    "sha256": "8745e40fa48c545787141dee1f59808cc12f1ceb70319118e2de97b48d47a78f",
+    "bytes": 1809
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/HollowingEffects.java",
+    "sha256": "133a7b3cef05e85abb23cac0044750669fce67a1cdb3b11b69cd736d39022598",
+    "bytes": 6798
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/CombatEvents.java",
+    "sha256": "4ae1cb53bd4dad819dddc7deb96f77da43009c34ca2e44d455e18f0ad003d2ac",
+    "bytes": 2916
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/CombatMove.java",
+    "sha256": "28e5d06bceb2e9b79a964da29220640820c89484c70c36352cab4995b20e4db9",
+    "bytes": 2101
+  },
+  {
+    "component": "harrower",
+    "path": "java/com/leyline/harrower/combat/Encounter.java",
+    "sha256": "32163f2c38c429136a926d2c261250207099577326130a61e99cefb9e475a183",
+    "bytes": 5099
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/lc_hollowforged.mixins.json",
+    "sha256": "8aaf4ee54be31ea8f96f45c984a17277de110e93b74a545cfa76a52684e41a06",
+    "bytes": 543
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/META-INF/neoforge.mods.toml",
+    "sha256": "fff6a9099b22bf35913ae772c9aa28dff1b193e30fb9a06b36409fe620706c80",
+    "bytes": 510
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/head_armor.json",
+    "sha256": "c8a796034981978f27e5b02586fc9fed923b6cb765a5bae65ccf85821b125575",
+    "bytes": 84
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/foot_armor.json",
+    "sha256": "ad10a7037e3f733c186db393923890e8a9c9de7e4e80b2b05edd11902f9effda",
+    "bytes": 91
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/leg_armor.json",
+    "sha256": "e0466a0ba9901e992c366efbf7881c0ba17cec65fbc5a3e90829a0705925bdb1",
+    "bytes": 89
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/chest_armor.json",
+    "sha256": "e6a9856e261edf8d9b26063016876cc50bce6784f40608acac3bf03e25f7dc17",
+    "bytes": 89
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/head_armor.json",
+    "sha256": "c8a796034981978f27e5b02586fc9fed923b6cb765a5bae65ccf85821b125575",
+    "bytes": 84
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/fire_aspect.json",
+    "sha256": "835f38e93865921c20bc8cd58992d7f75075f2d134cd2316b381eea88771ab7f",
+    "bytes": 75
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/foot_armor.json",
+    "sha256": "ad10a7037e3f733c186db393923890e8a9c9de7e4e80b2b05edd11902f9effda",
+    "bytes": 91
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/durability.json",
+    "sha256": "1db0af5617b1290ca3f86d714916c0fe2eef665ff5b49c121be8d4978ef3cf72",
+    "bytes": 264
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/leg_armor.json",
+    "sha256": "e0466a0ba9901e992c366efbf7881c0ba17cec65fbc5a3e90829a0705925bdb1",
+    "bytes": 89
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/chest_armor.json",
+    "sha256": "e6a9856e261edf8d9b26063016876cc50bce6784f40608acac3bf03e25f7dc17",
+    "bytes": 89
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/equippable.json",
+    "sha256": "7cabc106bdd4493a1cfcfbd6b9698911273b1f68cac3465319e3ee0ee7bce51e",
+    "bytes": 230
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/armor.json",
+    "sha256": "7cabc106bdd4493a1cfcfbd6b9698911273b1f68cac3465319e3ee0ee7bce51e",
+    "bytes": 230
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/sharp_weapon.json",
+    "sha256": "835f38e93865921c20bc8cd58992d7f75075f2d134cd2316b381eea88771ab7f",
+    "bytes": 75
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/vanishing.json",
+    "sha256": "1db0af5617b1290ca3f86d714916c0fe2eef665ff5b49c121be8d4978ef3cf72",
+    "bytes": 264
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/minecraft/tags/item/enchantable/weapon.json",
+    "sha256": "835f38e93865921c20bc8cd58992d7f75075f2d134cd2316b381eea88771ab7f",
+    "bytes": 75
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/recipe/treads_of_the_worldbreaker.json",
+    "sha256": "d650eb095b328b7246805d2e99b75c70a0c6e7ad7c1ac12983bd08e125bf06e2",
+    "bytes": 403
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/recipe/worldshard.json",
+    "sha256": "d96343e4295520b0abbaaa0ef64fcca560bf6802e8d69663cfae2546df3c73cb",
+    "bytes": 500
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/recipe/crown_of_the_hollow.json",
+    "sha256": "0e144c5a6fa9bace2a5012438bc85e5b469429e7a668a1ee649d6dabe1dd6a61",
+    "bytes": 456
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/recipe/greaves_of_the_stillborn.json",
+    "sha256": "36a7598d4714ede175e38181adaf4eb8cf85efaf948426bc37f5c5883863b097",
+    "bytes": 465
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/recipe/carapace_of_the_unbroken.json",
+    "sha256": "298ae1c7bd5450edfe826c909b1b99e8cca85b963cb2f4742d662f1fa3b6662f",
+    "bytes": 460
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/tags/damage_type/void_equivalent.json",
+    "sha256": "69b5026dd2c1d1dfff6e3145ccc224ec7ef319b7afe609a659512a30019660d2",
+    "bytes": 56
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/tags/mob_effect/stun_effects.json",
+    "sha256": "e879e24d5b109817d08c184b7d6cb0dd8e73bfc2a52f01600e59007e9ff733fe",
+    "bytes": 32
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/tags/entity_type/hostiles.json",
+    "sha256": "e879e24d5b109817d08c184b7d6cb0dd8e73bfc2a52f01600e59007e9ff733fe",
+    "bytes": 32
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/data/lc_hollowforged/tags/entity_type/control_immune.json",
+    "sha256": "61ccbeb584f15d1079cd78b18b9f6bf1de25bcae2ba3d68eadc9e00561628bcd",
+    "bytes": 127
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/mountain_king_geometry.json",
+    "sha256": "62120c5660f457e07a4f9b21f40922cc914eb805db9adf59133a1f65fedf9c3d",
+    "bytes": 312314
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/simplytooltips/item_themes/hollowforged_readable.json",
+    "sha256": "90b062e867ab1cd95d0bafd5222e3d9b026e170b46ab44828aabe5f7354455bc",
+    "bytes": 403
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/lang/en_us.json",
+    "sha256": "655d070872e927adddbbb678c8145fb31b41d45acda78e107ba7c61f10be00b0",
+    "bytes": 10922
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/worldshard_icon.png",
+    "sha256": "f4f7e2c512a0427decd3a5f9aa2280ecfa47fedc2142b8b00bb47b00bff4d7d1",
+    "bytes": 644
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/carapace_of_the_unbroken_icon.png",
+    "sha256": "2a0ed0c7bbb16683f2f3fe408dd0cb9c7b7419d17073b79517addc6e02835ee8",
+    "bytes": 685
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/mountain_king.png",
+    "sha256": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+    "bytes": 574131
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/worldshard_087.png",
+    "sha256": "04fa34ff29f03e5f7447024be6ae0500dbed2c482046450ff31bd38d6140780b",
+    "bytes": 8979
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/treads_of_the_worldbreaker_icon.png",
+    "sha256": "95372489edb79ee916eb7e4f8c803642bd24e85d2be83a9b3280999040026211",
+    "bytes": 400
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/hollow_core_icon.png",
+    "sha256": "c8b9f62dcc725bd91dd0e5a6d5073d646573408900134f6ed5d0ad115263986f",
+    "bytes": 573
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/crown_of_the_hollow_icon.png",
+    "sha256": "de8112993660a598d581ca22348a82513490de2e8889b6385194586e96cf0156",
+    "bytes": 547
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/greaves_of_the_stillborn_icon.png",
+    "sha256": "c401ea24f96fb8209e9f462cee3404f2df3c184f6c770aa18bcf6dda65e4497e",
+    "bytes": 435
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/item/hollowforged.png",
+    "sha256": "ba7d5a58a55d29d2ee37e6383cfda27e4e0cb387af0e7431cdc8479cf08d0e62",
+    "bytes": 378934
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/models/armor/hollowforged_glow.png",
+    "sha256": "8fc8af1ab29c4ccc3d3447fbb86c5c18cd5da3c39f4ebe5124d95fe31235f4d6",
+    "bytes": 16350
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/models/armor/hollowforged_layer_1.png",
+    "sha256": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+    "bytes": 574131
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/textures/models/armor/hollowforged_layer_2.png",
+    "sha256": "e7080cfdc7ea8a16895de3622dc8b3745cf105ab1b2d476a6eed2e5b65de9ebf",
+    "bytes": 574131
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/hollow_core.json",
+    "sha256": "541231bf1a01ccfc9193bb3d82e504563066ded33e1309fdcb9b4ca54aa986ff",
+    "bytes": 1942
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/treads_of_the_worldbreaker.json",
+    "sha256": "722dd48b823ad93fa8715fa46ad8c29ae54b3d5727de803fe7a6b045f8691eaa",
+    "bytes": 157
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/worldshard.json",
+    "sha256": "6b5706201413a927c4392de722ba235e1903cdcfb7612eda1bcf95aacaed9522",
+    "bytes": 35481
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/crown_of_the_hollow.json",
+    "sha256": "ef0155565f3918e3612520a292f00f2ecdc958e89235f483c83832611c3ca990",
+    "bytes": 150
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/greaves_of_the_stillborn.json",
+    "sha256": "cf25542cfe3fc10335aa506ee0bb1c7a691df10981e8c5d49f26cf57b27797e7",
+    "bytes": 155
+  },
+  {
+    "component": "hollowforged",
+    "path": "resources/assets/lc_hollowforged/models/item/carapace_of_the_unbroken.json",
+    "sha256": "f809b7894bc9cad5fdc22e715f6db24741a23530de31c00d8aaf4bbab4e79b80",
+    "bytes": 155
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/EncounterRewards.java",
+    "sha256": "9b7963d9d275f2224efb35d6a6b701ac9e9e48e43c77857f3fb2fd8c11cd8cb8",
+    "bytes": 3381
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/RelicArmorItem.java",
+    "sha256": "92028b279d33a1177e7dfe1cdf7f035f34b6d720679ee5808559a36bcdd08746",
+    "bytes": 444
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/RelicTooltips.java",
+    "sha256": "a01527163a2fdf4c6b8f1c67d67b3e3f7c4e50c18ce5d26a1c37f6f97d9e5885",
+    "bytes": 2652
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/DevelopmentChecks.java",
+    "sha256": "4ab5ecfc07e14534d6ee76929ba6a765c0323f9acc88565f4e520f3f1413847f",
+    "bytes": 14990
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/GridOrigin.java",
+    "sha256": "2dc6c227b351dca8fc4b92763970366d5a2fa4d4a69061ab5a477de9d49bb0a6",
+    "bytes": 294
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/TwoHandedUse.java",
+    "sha256": "32a65cf8cebe5a397a716dc94a917cbcbf06cc29f02358ec4b77263c88d78698",
+    "bytes": 1935
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/LockedPassives.java",
+    "sha256": "575de6e33c2f6666a5b5457ddc903a2d6b1e545aee4ae2608b0ddfb7ce04212a",
+    "bytes": 3748
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/Hollowforged.java",
+    "sha256": "5f2b7a3ba65e0c84a72dcdfd2b642577af83fd25e44d5e1db225588bd8b843d6",
+    "bytes": 5168
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/ReviewScene.java",
+    "sha256": "2d2930b34ffb254d641b9fd260fba8cb78b577d460382f5c80a35cb0a9e65d18",
+    "bytes": 2475
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/WorldshardItem.java",
+    "sha256": "f6570de6b2b9096bb0c0cefde0563499ca3ef1571fa711d3e7b96e0fa4291b35",
+    "bytes": 1523
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/HFState.java",
+    "sha256": "ed3c2a1afad1d54ee7d2fc00a668de188556cf7ef8e59444e66d442e7b507479",
+    "bytes": 3543
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/CombatAbilities.java",
+    "sha256": "6cb9140ed8e42d00f02a232aca84b643ae8871e0d938c2ea548b626d059214ba",
+    "bytes": 15919
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/HFEffects.java",
+    "sha256": "380ad8574d93e27973797b8fabee0126612845390c0d875ca66dd41966e88678",
+    "bytes": 5916
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/CombatHooks.java",
+    "sha256": "1f1e1090a79c81af4545ddb95c943bc8e411853341947c9306f0658c3b2c29e6",
+    "bytes": 7913
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/HFNetwork.java",
+    "sha256": "01829aa54c8818ce7465b8913d7ee418d00ea4d5c128024a5b99c474e33e6ed3",
+    "bytes": 3684
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/CombatChecks.java",
+    "sha256": "f3a0e09144e57d6034f08113358f95c2f01f2e532b2a6f5f2aac1098131ebaba",
+    "bytes": 18934
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/CraftingInputMixin.java",
+    "sha256": "9e5668cf1bef0046820ca2638176f776e6071ba9c935f014c380917d48821722",
+    "bytes": 1336
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/HoneyMixin.java",
+    "sha256": "86b17b070b717fcf3670b74d8dfffa10ba301a5cbfdae69d259e3cede7ce2aaa",
+    "bytes": 747
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/FishingPullMixin.java",
+    "sha256": "288edc9452d59d47e8006139c1f3ea5a26d517a302f48e04513cff3741f154d3",
+    "bytes": 576
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/MovementMixin.java",
+    "sha256": "1ff37d74aa67780e9bd94dc0ef2dba1016c5382daf4e30a8d9d22f07da7d30da",
+    "bytes": 2200
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/RecipeCacheMixin.java",
+    "sha256": "de9998dc52f1625a2fbacf8ea9ee1da975ccc1b4ac7857c9c9730f63ac95d1b1",
+    "bytes": 897
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/PlayerAttackMixin.java",
+    "sha256": "f7f2afbab36b00deaf7ff0e4218b8d090984595e65d3fb29ec59fa91f84020e9",
+    "bytes": 1009
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/StunMixin.java",
+    "sha256": "268b2f3b5d9c1bd0af403b6c0cc7bbef2c345e584de076546bbc29de9fd500d3",
+    "bytes": 503
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/ArmorCombatMixin.java",
+    "sha256": "b519d1db4b8a1e0ce32909be9bff97773a0686adb959bafed2f73c4702b0a8c8",
+    "bytes": 846
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/ShapedRecipeMixin.java",
+    "sha256": "be44fe330b808f71eba113590c82aa114a10259615d4121a8495b0d00a5f216a",
+    "bytes": 1880
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/HollowArmorGeometry.java",
+    "sha256": "41dc472a2c2de4c279dc03f99835c0089504c93ab157e960712bfdf0ddae7b2f",
+    "bytes": 2891
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/HollowforgedClient.java",
+    "sha256": "afe0db799a945ca027a9cde6ae2ad304b406a7879e07145fa3b20f9b2a16e640",
+    "bytes": 3378
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/RelicTooltipClient.java",
+    "sha256": "f152e7e22f38ae6d516d7fcec865127078dc953b4333dac6d82b56f5ab6e81ba",
+    "bytes": 4846
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/WorldshardPose.java",
+    "sha256": "216e0fcf1b8be3278e7f9278fd15773358876c9709f30433e770a60cc1fce39f",
+    "bytes": 3343
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/MountainAtmosphere.java",
+    "sha256": "947e2a9a3e64222bf26744350646162dd749dcd365e489f72af51f61239c6aef",
+    "bytes": 1396
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/LivingMountainModel.java",
+    "sha256": "2e7effcd27cb449ff6040d26cb63f54af44b765a491e58f2eb191073197955ed",
+    "bytes": 1709
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/EffectsReview.java",
+    "sha256": "4c299468f23769caa8ccae7f72c4d7d5fbd140ef84d9acdd44893e213f9ff779",
+    "bytes": 1685
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/MountainPlateCube.java",
+    "sha256": "d4c2f3d3d542d84919e48bbd9f0de5952a98e3d758de2360a6ee9ec6f6f18823",
+    "bytes": 1304
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/WorldshardGripSpec.java",
+    "sha256": "9e2589dcb9f16e721cfe22807b8d4738d0aa9790711cdc989afd8386adc7c546",
+    "bytes": 452
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/ReviewCapture.java",
+    "sha256": "d5c9674f2c3ff55ac2a47031991a6f441a2bd8c86765c2391bd026b571cd6a96",
+    "bytes": 11022
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/StonePeakCube.java",
+    "sha256": "cb059db5768ab962b0cadc9789fb4036ea1577d3deb4faaf21719a41ef741b4e",
+    "bytes": 1458
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/FirstPersonArmor.java",
+    "sha256": "600f01e684dd1de037f5ef2ec1f166db6f665837266d2da4f23eeb0049826ace",
+    "bytes": 2037
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/HammerSwingCurve.java",
+    "sha256": "1df43747ba3db6781a8c219cf5f09658b420a83ddc7d3df2a1b4eb8c06a5a568",
+    "bytes": 991
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/WorldshardGrip.java",
+    "sha256": "288ecd354a9dba2b6dc24e842e1fa2989af906af7a4fc343f6e763220e32c558",
+    "bytes": 2448
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/AbilityControls.java",
+    "sha256": "3c10047cb732ceb9f82d5bfe8fb8b355c3292e53fc7ec715ba0fd74226096201",
+    "bytes": 8870
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/TooltipReview.java",
+    "sha256": "6c37f52227eeb42b0e11265c4ccfc014dab528c72d5c4ae4a22091f11d49c78e",
+    "bytes": 8506
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/RelicEffects.java",
+    "sha256": "73c4d0123a3e389cfc0b8da236d3c23a0f50c51eb7370bdfc740e9c705efc0e4",
+    "bytes": 13109
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/client/MountainGlowLayer.java",
+    "sha256": "13446c3dc84eb747cf5d12a2d5e43b8b37fee8c907d222a8b45e7d96530e6199",
+    "bytes": 2010
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/client/WorldshardPoseMixin.java",
+    "sha256": "8866123aa52ae5af46cd430d690ed62ad2e13f0b406888980635084a3876bc16",
+    "bytes": 773
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/client/WorldshardHandMixin.java",
+    "sha256": "d5fb20b592382c624fb42c3466aafcc8e019ba9223b358e401b7d6e2202c6213",
+    "bytes": 1555
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/client/EntitySightMixin.java",
+    "sha256": "bd40c63535ff9994454d21d78a23f6c2df48db3db884e0ab53ddb13e5a28f3c9",
+    "bytes": 877
+  },
+  {
+    "component": "hollowforged",
+    "path": "java/com/leyline/hollowforged/mixin/client/DarkVisionMixin.java",
+    "sha256": "e83fa256d5b78afed2cf95cf138115bd6cfb98c0e30cb2ff578a28f81fba0a5e",
+    "bytes": 1120
+  },
+  {
+    "component": "fragment",
+    "path": "resources/META-INF/neoforge.mods.toml",
+    "sha256": "5a7b034a3f5c5fd7cd6c494c8e0daa44672737a8acaa667061c7556f2c497bf1",
+    "bytes": 544
+  },
+  {
+    "component": "fragment",
+    "path": "resources/assets/hollow_fragment_addon/lang/en_us.json",
+    "sha256": "0f4962cbcc4f3e693ccaa06546fef2dfe2fc3e3cd29b143f0f8d6e047971fa16",
+    "bytes": 176
+  },
+  {
+    "component": "fragment",
+    "path": "resources/assets/hollow_fragment_addon/textures/item/hollow_fragment_palette.png",
+    "sha256": "c5a6730a1b936fd5d1183337a0e8e432a2b0109d09337e2824ddeaa2fc0f135e",
+    "bytes": 162
+  },
+  {
+    "component": "fragment",
+    "path": "resources/assets/hollow_fragment_addon/textures/item/hollow_fragment_icon.png",
+    "sha256": "4bba91c51035e5bab98ca05b7fb04af320a5ccbc976003cc7f30cbf1c42ffd4a",
+    "bytes": 605
+  },
+  {
+    "component": "fragment",
+    "path": "resources/assets/hollow_fragment_addon/models/item/hollow_fragment.json",
+    "sha256": "65a5f0fc07aaad0e67259aeaccaedab0fd01a4cba939be8fd23abe086379d811",
+    "bytes": 76990
+  },
+  {
+    "component": "fragment",
+    "path": "java/com/leylineconvergence/hollowfragment/HollowFragmentAddon.java",
+    "sha256": "7af0937f64d923aacc503bf3b2a57192ee3a7941f268570bbda5b88b188c83e3",
+    "bytes": 1429
+  }
+]

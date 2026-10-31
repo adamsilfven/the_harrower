@@ -1,0 +1,18 @@
+{
+  "entity.lc_harrower.harrower": "The Harrower",
+  "item.lc_harrower.harrower_spawn_egg": "Harrower Spawn Egg",
+  "subtitles.lc_harrower.heavy_step": "Massive stone footfall",
+  "subtitles.lc_harrower.stone_grind": "Stone strains",
+  "subtitles.lc_harrower.mountain_breath": "The mountain breathes",
+  "death.attack.lc_harrower": "%1$s was crushed by %2$s",
+  "death.attack.lc_harrower.player": "%1$s was crushed by %2$s",
+  "subtitles.lc_harrower.world_impact": "The ground breaks beneath the blow",
+  "subtitles.lc_harrower.fist_warning": "A stone fist draws back",
+  "subtitles.lc_harrower.sweep_warning": "Stone scrapes across stone",
+  "subtitles.lc_harrower.foot_warning": "An enormous foot rises",
+  "subtitles.lc_harrower.rupture_warning": "Pressure builds beneath the ground",
+  "subtitles.lc_harrower.charge_warning": "The Harrower braces to charge",
+  "subtitles.lc_harrower.grasp_warning": "A crushing hand reaches",
+  "subtitles.lc_harrower.hollowing_warning": "The hollow chest draws breath",
+  "subtitles.lc_harrower.phase_strain": "The Harrower strains against itself"
+}

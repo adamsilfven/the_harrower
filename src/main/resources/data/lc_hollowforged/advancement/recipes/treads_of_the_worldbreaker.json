@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lc_hollowforged:hollow_core"
+            ]
+          }
+        ]
+      }
+    },
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "lc_hollowforged:treads_of_the_worldbreaker"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_core",
+      "has_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lc_hollowforged:treads_of_the_worldbreaker"
+    ]
+  }
+}

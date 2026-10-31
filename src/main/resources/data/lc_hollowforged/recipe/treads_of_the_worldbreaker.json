@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "   ",
+    "NCN",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:breeze_rod"
+    },
+    "C": {
+      "item": "lc_hollowforged:hollow_core"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "lc_hollowforged:treads_of_the_worldbreaker",
+    "count": 1
+  }
+}

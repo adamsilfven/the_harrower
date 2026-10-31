@@ -1,0 +1,19 @@
+{
+  "items": {
+    "lc_hollowforged:crown_of_the_hollow": {
+      "enabled": false
+    },
+    "lc_hollowforged:carapace_of_the_unbroken": {
+      "enabled": false
+    },
+    "lc_hollowforged:greaves_of_the_stillborn": {
+      "enabled": false
+    },
+    "lc_hollowforged:treads_of_the_worldbreaker": {
+      "enabled": false
+    },
+    "lc_hollowforged:worldshard": {
+      "enabled": false
+    }
+  }
+}

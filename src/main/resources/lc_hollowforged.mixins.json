@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.leyline.hollowforged.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CraftingInputMixin",
+    "ShapedRecipeMixin",
+    "RecipeCacheMixin",
+    "ArmorCombatMixin",
+    "PlayerAttackMixin",
+    "MovementMixin",
+    "HoneyMixin",
+    "StunMixin",
+    "FishingPullMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "client.EntitySightMixin",
+    "client.DarkVisionMixin",
+    "client.WorldshardPoseMixin",
+    "client.WorldshardHandMixin"
+  ]
+}
