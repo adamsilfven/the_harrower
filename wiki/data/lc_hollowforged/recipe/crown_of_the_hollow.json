@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "EEE",
+    "NCN",
+    "O O"
+  ],
+  "key": {
+    "C": {
+      "item": "lc_hollowforged:hollow_core"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "lc_hollowforged:crown_of_the_hollow",
+    "count": 1
+  }
+}

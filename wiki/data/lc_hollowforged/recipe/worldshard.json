@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NHN",
+    "DCD",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:breeze_rod"
+    },
+    "C": {
+      "item": "lc_hollowforged:hollow_core"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "H": {
+      "item": "minecraft:heavy_core"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "lc_hollowforged:worldshard",
+    "count": 1
+  }
+}
