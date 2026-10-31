@@ -1,0 +1,42 @@
+plugins { id 'java-library'; id 'net.neoforged.moddev' version '2.0.148' }
+version='1.0.0'
+group='com.leyline.harrower'
+base { archivesName='harrower-neoforge-1.21.1' }
+java { toolchain.languageVersion=JavaLanguageVersion.of(21);withSourcesJar() }
+neoForge {
+ version='21.1.259'
+ runs {
+  client { client();gameDirectory=file('run-client') }
+  server { server();gameDirectory=file('run-server');programArgument '--nogui' }
+  verify { systemProperty 'lc_harrower.delayedVerify',project.hasProperty('delayedValidation')?'true':'false';server();jvmArgument '-Xmx1G';gameDirectory=file('run-verify');programArgument '--nogui';systemProperty 'lc_hollowforged.verify',(project.hasProperty('naturalValidation')||project.hasProperty('delayedValidation'))?'false':'true' }
+ }
+ mods { if(!project.hasProperty('binaryValidation')) { lc_harrower { sourceSet sourceSets.main } } }
+}
+tasks.withType(JavaCompile).configureEach {options.encoding='UTF-8'}
+tasks.withType(AbstractArchiveTask).configureEach {preserveFileTimestamps=false;reproducibleFileOrder=true}
+sourceSets.test.compileClasspath += sourceSets.main.compileClasspath
+// Retain the corrected Fragment's native Minecraft model-parser regression test.
+tasks.register('validateModel', JavaExec) {
+ dependsOn testClasses
+ classpath=sourceSets.test.output+sourceSets.main.compileClasspath+sourceSets.main.output
+ mainClass='ModelParserCheck'
+ args file('src/main/resources/assets/hollow_fragment_addon/models/item/hollow_fragment.json').absolutePath,
+      file('src/test/resources/hollow_fragment_1.0.0_broken.json').absolutePath
+}
+tasks.named('check') { dependsOn 'validateModel' }
+apply from:'validation.gradle'
+
+// Verify and package every original compiled entry against the supplied reference hashes.
+// Python 3 is required for this deterministic, integrity-checked archive step.
+tasks.register('packageRitual', Exec) {
+ dependsOn classes
+ commandLine 'python3', file('scripts/package_ritual.py').absolutePath
+}
+tasks.named('jar') { finalizedBy 'packageRitual' }
+tasks.register('validateHollowCore', JavaExec) {
+ dependsOn testClasses
+ classpath=sourceSets.test.output+sourceSets.main.compileClasspath+sourceSets.main.output
+ mainClass='HollowCoreModelCheck'
+ args file('src/main/resources/assets/lc_hollowforged/models/item/hollow_core.json').absolutePath
+}
+tasks.named('check') { dependsOn 'validateHollowCore' }
