@@ -1,0 +1,6 @@
+[
+  "META-INF/neoforge.mods.toml",
+  "com/leyline/hollowforged/EncounterRewards.class",
+  "com/leyline/hollowforged/CombatChecks.class",
+  "data/lc_harrower/loot_table/entities/harrower.json"
+]
