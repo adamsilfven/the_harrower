@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NKN",
+    "OCO",
+    "N N"
+  ],
+  "key": {
+    "C": {
+      "item": "lc_hollowforged:hollow_core"
+    },
+    "K": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "lc_hollowforged:greaves_of_the_stillborn",
+    "count": 1
+  }
+}
