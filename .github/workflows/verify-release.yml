@@ -1,0 +1,37 @@
+name: Verify Harrower release
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Java 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+      - name: Verify original resources
+        run: python3 scripts/verify_baseline.py
+      - name: Clean build
+        run: bash gradlew --no-daemon clean build
+      - name: Verify compiled JAR against approved baseline
+        run: python3 scripts/verify_baseline.py build/libs/harrower-neoforge-1.21.1-1.0.0.jar
+      - name: Verify reproducible release checksum
+        run: echo '59e6b17461219c69f1278cf7c2fb585b464aa1f1d7a9f1b5cb650a8df9bc94f8  build/libs/harrower-neoforge-1.21.1-1.0.0.jar' | sha256sum --check
+      - name: Retain verified release JAR
+        uses: actions/upload-artifact@v4
+        with:
+          name: harrower-neoforge-1.21.1-1.0.0
+          path: build/libs/harrower-neoforge-1.21.1-1.0.0.jar
+          if-no-files-found: error
