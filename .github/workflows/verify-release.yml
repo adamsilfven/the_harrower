@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: '21.0.6+7'
+          java-version: '21.0.6'
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
       - name: Verify original resources
